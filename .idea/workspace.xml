@@ -2,67 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ac6699a9-b780-4b69-a397-c80dec2f0eec" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/deploy.sh" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/JavaScript/0003.基本概念/0000/3.7函数.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/JavaScript/0003.基本概念/0000/3.8小结.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/JavaScript/0004.变量、作用域和内存问题/0003.This指向问题.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/JavaScript/0004.变量、作用域和内存问题/0004.call&amp;apply&amp;bind.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/JavaScript/0005.引用类型/Function类型.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/JavaScript/0005.引用类型/基本包装类型.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/JavaScript/0007.函数表达式/模仿块级作用域.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/JavaScript/0007.函数表达式/私有变量.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/JavaScript/0007.函数表达式/闭包.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/JavaScript/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/vue/vue-cli.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/vue/vuex.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/vue/vue基础.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/img-floder/创建github项目.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/config.js" beforeDir="false" afterPath="$PROJECT_DIR$/docs/.vuepress/config.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/guide/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/guide/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/前端/JavaScript/0003.基本概念/0001.JS的基本概念.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/JavaScript/0003.基本概念/0001.JS的基本概念.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/前端/JavaScript/0003.基本概念/0002.JS的基本数据类型.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/JavaScript/0003.基本概念/0002.JS的基本数据类型.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/前端/JavaScript/0003.基本概念/0003.操作符.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/JavaScript/0003.基本概念/0003.操作符.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/前端/JavaScript/0003.基本概念/0004.JS语句.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/JavaScript/0003.基本概念/0004.JS语句.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/前端/JavaScript/0003.基本概念/0005.函数.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/JavaScript/0003.基本概念/0005.函数.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/前端/JavaScript/0004.变量、作用域和内存问题/0001.相关基本概念.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/JavaScript/0004.变量、作用域和内存问题/0001.相关基本概念.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/前端/JavaScript/0004.变量、作用域和内存问题/0002.执行环境和作用域.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/JavaScript/0004.变量、作用域和内存问题/0002.执行环境和作用域.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/前端/JavaScript/0004.变量、作用域和内存问题/0003.This指向问题.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/.vuepress/styles/index.styl" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/前端/JavaScript/0004.变量、作用域和内存问题/0004.call&amp;apply&amp;bind.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/JavaScript/0003.基本概念/0000/3.1语法.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/前端/JavaScript/0005.引用类型/Array类型.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/JavaScript/0005.引用类型/Array类型.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/前端/JavaScript/0005.引用类型/Date类型.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/JavaScript/0005.引用类型/Date类型.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/前端/JavaScript/0005.引用类型/Function类型.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/JavaScript/0003.基本概念/0000/3.2关键字和保留字.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/前端/JavaScript/0005.引用类型/Object类型.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/JavaScript/0005.引用类型/Object类型.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/前端/JavaScript/0005.引用类型/RegExp类型.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/JavaScript/0005.引用类型/RegExp类型.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/前端/JavaScript/0005.引用类型/单体内置对象.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/JavaScript/0005.引用类型/单体内置对象.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/前端/JavaScript/0005.引用类型/基本包装类型.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/JavaScript/0003.基本概念/0000/3.3变量.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/前端/JavaScript/0006.面向对象的程序设计/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/JavaScript/0006.面向对象的程序设计/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/前端/JavaScript/0006.面向对象的程序设计/创建对象的几种方式.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/JavaScript/0006.面向对象的程序设计/创建对象的几种方式.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/前端/JavaScript/0006.面向对象的程序设计/理解对象.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/JavaScript/0006.面向对象的程序设计/理解对象.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/前端/JavaScript/0006.面向对象的程序设计/继承.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/JavaScript/0006.面向对象的程序设计/继承.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/前端/JavaScript/0007.函数表达式/模仿块级作用域.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/JavaScript/0003.基本概念/0000/3.4数据类型.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/前端/JavaScript/0007.函数表达式/私有变量.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/JavaScript/0003.基本概念/0000/3.5操作符.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/前端/JavaScript/0007.函数表达式/递归.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/JavaScript/0007.函数表达式/递归.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/前端/JavaScript/0007.函数表达式/闭包.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/JavaScript/0003.基本概念/0000/3.6语句.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/进阶/HTTP知识点/HTTPS.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/HTTP知识点/HTTPS.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/进阶/HTTP知识点/HTTP报文和HTTP信息.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/HTTP知识点/HTTP报文和HTTP信息.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/进阶/HTTP知识点/HTTP状态码.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/HTTP知识点/HTTP状态码.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/进阶/HTTP知识点/HTTP简介.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/HTTP知识点/HTTP简介.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/进阶/HTTP知识点/HTTP请求方法.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/HTTP知识点/HTTP请求方法.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/进阶/HTTP知识点/HTTP首部.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/HTTP知识点/HTTP首部.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/进阶/HTTP知识点/OSI参考模型.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/HTTP知识点/OSI参考模型.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/进阶/HTTP知识点/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/HTTP知识点/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/进阶/HTTP知识点/TCP-IP体系结构.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/HTTP知识点/TCP-IP体系结构.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/进阶/HTTP知识点/域名系统DNS.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/HTTP知识点/域名系统DNS.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/进阶/HTTP知识点/简单的HTTP协议.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/HTTP知识点/简单的HTTP协议.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/进阶/JS设计模式/0001.面向对象编程.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/JS设计模式/0001.面向对象编程.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/进阶/JS设计模式/0002.创建型设计模式.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/JS设计模式/0002.创建型设计模式.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/进阶/JS设计模式/0003.结构型设计模式.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/JS设计模式/0003.结构型设计模式.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/进阶/JS设计模式/0004.行为型设计模式.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/JS设计模式/0004.行为型设计模式.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/进阶/JS设计模式/0005.技巧型设计模式.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/JS设计模式/0005.技巧型设计模式.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/进阶/JS设计模式/0006.架构型设计模式.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/JS设计模式/0006.架构型设计模式.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/进阶/JS设计模式/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/JS设计模式/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -75,21 +17,28 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/README.md">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/docs/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="FIRST">
-              <first_editor relative-caret-position="145">
-                <caret line="10" column="13" lean-forward="true" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="416">
+                <caret line="15" column="2" selection-start-line="15" selection-start-column="2" selection-end-line="15" selection-end-column="2" />
               </first_editor>
               <second_editor />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/package.json">
-          <provider selected="true" editor-type-id="text-editor" />
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="FIRST">
+              <first_editor relative-caret-position="58">
+                <caret line="3" column="19" selection-start-line="3" selection-start-column="19" selection-end-line="3" selection-end-column="19" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
         </entry>
       </file>
     </leaf>
@@ -100,6 +49,7 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+        <option value="$PROJECT_DIR$/docs/README.md" />
         <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
@@ -123,6 +73,11 @@
               <item name="vuepress-blog" type="b2602c69:ProjectViewProjectNode" />
               <item name="vuepress-blog" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="vuepress-blog" type="b2602c69:ProjectViewProjectNode" />
+              <item name="vuepress-blog" type="462c0819:PsiDirectoryNode" />
+              <item name="docs" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -135,6 +90,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="yarn" />
     <property name="prettierjs.PrettierConfiguration.Package" value="E:\0001.知识点\0001.前端知识点\0013.博客\0002.vuepress创建博客\0002.自己的博客\0001.正式版博客\vuepress-blog\node_modules\prettier" />
     <property name="settings.editor.selected.configurable" value="watcher.settings" />
   </component>
@@ -163,12 +119,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1598607383426</updated>
-      <workItem from="1598607384742" duration="732000" />
+      <workItem from="1598607384742" duration="1862000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="732000" />
+    <option name="totallyTimeSpent" value="1862000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="848" extended-state="6" />
@@ -181,7 +137,7 @@
       <window_info anchor="bottom" id="Alibaba Cloud View" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Terminal" visible="true" weight="0.32960895" />
+      <window_info anchor="bottom" id="Terminal" weight="0.32960895" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
@@ -207,14 +163,32 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/deploy.sh">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-87" />
+        <state relative-caret-position="58">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="416">
+            <caret line="15" column="2" selection-start-line="15" selection-start-column="2" selection-end-line="15" selection-end-column="2" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img-floder/创建github项目.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="145">
-            <caret line="10" column="13" lean-forward="true" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+          <first_editor relative-caret-position="58">
+            <caret line="3" column="19" selection-start-line="3" selection-start-column="19" selection-end-line="3" selection-end-column="19" />
           </first_editor>
           <second_editor />
         </state>

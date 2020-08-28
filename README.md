@@ -15,6 +15,7 @@ yarn docs:dev
 ```
 yarn deploy
 ```
+- 这个命令是将修改或者新添加的数据推送至分支，没有修改master分支，怎么在deploy中添加推送至master分支，有没有必要添加
 
 
 ## 创建github项目
