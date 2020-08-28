@@ -1,3 +1,9 @@
+---
+title: "Object类型"
+date: "2020-01-01"
+permalink: "2020-01-01-引用类型-Object类型"
+---
+
 [[toc]]
 ## Object介绍
 **数据类型**
