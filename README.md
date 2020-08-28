@@ -3,8 +3,6 @@ VuePress中文官网：https://www.vuepress.cn
 源码地址：https://github.com/wwml725/vuepress-blog
 博客地址：https://wwml725.github.io/vuepress-blog
 
-![enter image description here](https://user-gold-cdn.xitu.io/2020/4/6/1714f514eb24de9d?imageView2/0/w/1280/h/960/format/webp/ignore-error/1)
-
 --------
 ## 启动
 ```

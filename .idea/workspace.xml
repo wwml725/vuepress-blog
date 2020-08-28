@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ac6699a9-b780-4b69-a397-c80dec2f0eec" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/img-floder/efc638191d17728bf652c24d1f8c642.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -53,11 +53,6 @@
               <item name="vuepress-blog" type="b2602c69:ProjectViewProjectNode" />
               <item name="vuepress-blog" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="vuepress-blog" type="b2602c69:ProjectViewProjectNode" />
-              <item name="vuepress-blog" type="462c0819:PsiDirectoryNode" />
-              <item name="img-floder" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -105,12 +100,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1598607383426</updated>
-      <workItem from="1598607384742" duration="2132000" />
+      <workItem from="1598607384742" duration="3041000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2132000" />
+    <option name="totallyTimeSpent" value="3041000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="848" extended-state="6" />
@@ -178,11 +173,14 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/img-floder/efc638191d17728bf652c24d1f8c642.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="203">
-            <caret line="7" column="8" lean-forward="true" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="8" />
+          <first_editor relative-caret-position="116">
+            <caret line="4" selection-start-line="4" selection-end-line="4" />
           </first_editor>
           <second_editor />
         </state>
